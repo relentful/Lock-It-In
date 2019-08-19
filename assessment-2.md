@@ -1,9 +1,9 @@
 # Assessment 2
 
-## Scenario: 
+## Scenario:
 
-You are having an open-ended one-on-one (no agenda) with someone you manage. They are a junior engineer, and they have been working hard to improve their technical, communication and planning and execution skills with success. They would be on track for a promotion soon, but they consistently undercut themselves in code reviews and customer syncs because of their lack of confidence. During your meeting, you lay out all the ways that they’ve improved in the last 9 months, and talk about how the things they say about themselves are undercutting their work and progress. During the next week, you’d like your colleague to notice when they engage in negative self-talk during the work day, with the goal of the week after replacing that with something more neutral. 
+You are having an open-ended one-on-one (no agenda) with a junior engineer you manage. They have been successfully working hard to improve their technical planning and execution skills. They would be on track for a promotion soon, but they consistently undercut themselves in code reviews and customer syncs because of their lack of confidence. During your meeting, you lay out all the ways that they’ve improved in the last 9 months, and how the things they say about themselves are undercutting their work and progress. During the next week, you’d like your colleague to notice when they engage in negative self-talk during the work day, with a goal for the following week of replacing that with something more neutral.
 
-## Tasks: 
-1. Describe what want from your check for understanding. 
-1. Show how you will you wrap up your feedback and Lock it In with this person.
+## Tasks:
+1. Describe the goal of your feedback.
+1. Show how you will you wrap up your feedback and "Lock it In" with this person
